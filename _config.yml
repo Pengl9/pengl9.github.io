@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello!"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Peng liao (廖鹏)"
 description              : &description "Master Student"
